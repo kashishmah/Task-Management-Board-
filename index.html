@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Task Management Board</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="board">
+    <form id="todo-form">
+      <input type="text" id="todo-input" placeholder="Enter new task" />
+      <button type="submit">Add +</button>
+    </form>
+
+    <div class="lanes">
+      <div class="swim-lane" data-lane="todo">
+        <h3 class="heading">TODO (<span class="count">0</span>)</h3>
+      </div>
+
+      <div class="swim-lane" data-lane="doing">
+        <h3 class="heading">DOING (<span class="count">0</span>)</h3>
+      </div>
+
+      <div class="swim-lane" data-lane="done">
+        <h3 class="heading">DONE (<span class="count">0</span>)</h3>
+      </div>
+    </div>
+  </div>
+
+  <script src="drag.js"></script>
+  <script src="todo.js"></script>
+</body>
+</html>
