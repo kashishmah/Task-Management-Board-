@@ -18,9 +18,10 @@ A responsive Kanban-style task management web application.
 https://kashishmah.github.io/Task-Management-Board-/
 
 ## 🔗 GitHub Repository
-https://github.com/your-username/task-management-board
+https://github.com/kashishmah/Task-Management-Board
 
 ## 📈 Future Enhancements
 - User authentication
 - Task priority & deadlines
+
 
