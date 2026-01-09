@@ -15,7 +15,7 @@ A responsive Kanban-style task management web application.
 - JavaScript (DOM & Drag API)
 
 ## 🔗 Live Demo
-https://task-management-board.netlify.app
+https://kashishmah.github.io/Task-Management-Board-/
 
 ## 🔗 GitHub Repository
 https://github.com/your-username/task-management-board
@@ -23,3 +23,4 @@ https://github.com/your-username/task-management-board
 ## 📈 Future Enhancements
 - User authentication
 - Task priority & deadlines
+
